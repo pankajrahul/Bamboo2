@@ -7,6 +7,7 @@ namespace BambooWebDeploy
     //added
     //addded
     //added
+    //added
     public class FilterConfig
     {
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
