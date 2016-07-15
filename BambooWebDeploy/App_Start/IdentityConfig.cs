@@ -19,6 +19,7 @@ namespace BambooWebDeploy
         public Task SendAsync(IdentityMessage message)
         {
             // Plug in your email service here to send an email.
+            //added
             return Task.FromResult(0);
         }
     }
